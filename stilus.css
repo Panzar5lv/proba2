@@ -1,0 +1,74 @@
+h1{
+    color:rgb(197, 86, 108);
+    text-align: center;
+    background-color: darkviolet;
+}
+body{
+    background-color: rgb(184, 172, 171);
+    color:blue;
+    font-family:"Roboto";
+    font-size: 24px;
+    line-height: 1.3em;
+}
+
+ul{
+    color: black;
+    list-style-type: none;
+    margin: 0;
+    padding: 0; 
+    text-align:center;
+    background-color: rgb(135, 129, 219);
+}
+li{
+    display: inline;
+    
+}
+p{
+    
+    text-align: left;
+    color:black;
+}
+span{
+    display: block;
+}
+img{
+    text-align: left;
+
+}
+.doboz-1{
+    background-color: cadetblue;
+    color: black;
+    margin: auto;
+    margin-right: 0px;
+    margin-left: 920px;
+    width: 960px;
+    
+}
+.doboz-2{
+    background-color: cadetblue;
+    color: black;
+    margin-right: 920px;
+    margin-left: 0px;
+    width: 960px;
+    border: 0px;
+}
+.doboz-3{
+    background-color: cadetblue;
+    color: black;
+    margin-right: 0px;
+    margin-left: 920px;
+    
+    width: 960px;
+}
+
+.iskolakep-1{
+    text-align: right;
+}
+.bme-1{
+    text-align: right;
+
+}
+.fejlec-1{
+    background-color: darkslateblue;
+    margin-top: 0px;
+}
